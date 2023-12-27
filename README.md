@@ -1,4 +1,4 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+Landing page uses various elements, technologies, and best practices that contribute to its design, functionality, and effectiveness.
+It is optimized for various devices (desktops, tablets, smartphones).
+Landing page uses a visually appealing layout with clear navigation.
+Technologies: HTML/SCSS.
